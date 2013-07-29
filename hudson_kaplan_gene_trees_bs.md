@@ -1,3 +1,4 @@
+This book: http://books.google.com/books?id=l5Z1q-8s2hgC&lpg=PP1&pg=PP1#v=onepage&q&f=false Chapter 12
 ## Introduction
 - Variation in neutral alleles can be reduced by selection at linked loci against deleterious alleles (Charlesworth, Morgan, and Charlesworth)
     - Neutral alleles are linked to deleterious alleles and when deleterious alleles are selected against they also select against neutral alleles because they are linked

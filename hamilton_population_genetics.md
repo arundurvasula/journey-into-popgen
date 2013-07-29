@@ -1,3 +1,4 @@
+Hamilton, Matthew. *Introduction to Population Genetics*. Oxford: Wiley-Blackwell, 2009. Print.
 ## Chapter 1
 
 - **expectations** can be defined as the expected value of a random variable (especially the average)
