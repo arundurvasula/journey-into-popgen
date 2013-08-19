@@ -99,4 +99,11 @@ Hamilton, Matthew. *Introduction to Population Genetics*. Oxford: Wiley-Blackwel
 		--------------
 		A_2        B_2
 
-    
+- Coupling gametes: alleles on the same chromosome remain together (`A_1B_1`)
+- Repulsion gametes: alleles on the same chromosome seem repulsed by each other and pair with alleles on the opposite strand (`A_1B_2`)
+- **Recombination fraction** (`r` or `c`) refers to the total frequency of gametes resulting from recombination events between two loci. 
+- `r` is the rate of recombination and `1-r` is the rate of non-recombination (freq of all gametes is 1)
+- `r` can be thought of as the probability that a recombination event will occur between two loci. 
+- Values less than 0.5 indicate that the coupling gametes are more frequent. 
+- Linkage disequilibrium parameter comes from the `coupling term - repulsion term` where the terms are gamete frequency. 
+- LD can be measured by rho. 
